@@ -4,7 +4,7 @@
  * Plugin Name: PixelYourSite Super Pack
  * Plugin URI: http://www.pixelyoursite.com/
  * Description: Extend the power of PixelYourSite Pro with these extra add-ons.
- * Version: 2.0.8
+ * Version: 2.1.1
  * Author: PixelYourSite
  * Author URI: http://www.pixelyoursite.com
  * License URI: http://www.pixelyoursite.com/pixel-your-site-pro-license
@@ -13,7 +13,7 @@
  * Tested up to: 5.0.2
  *
  * WC requires at least: 2.6.0
- * WC tested up to: 3.8.0
+ * WC tested up to: 4.0
  *
  * Text Domain: pys
  */
@@ -24,7 +24,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 use PixelYourSite\SuperPack;
 
-define( 'PYS_SUPER_PACK_VERSION', '2.0.8' );
+define( 'PYS_SUPER_PACK_VERSION', '2.1.1' );
 define( 'PYS_SUPER_PACK_PRO_MIN_VERSION', '7.0.6' );
 define( 'PYS_SUPER_PACK_PATH', untrailingslashit( plugin_dir_path( __FILE__ ) ) );
 define( 'PYS_SUPER_PACK_URL', untrailingslashit( plugin_dir_url( __FILE__ ) ) );
